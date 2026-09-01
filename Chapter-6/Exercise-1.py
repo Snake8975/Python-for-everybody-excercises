@@ -11,6 +11,10 @@ while varIdx >= varLenStrNeg:
     print(varString[varIdx])
     varIdx -= 1
 
+print("Test con for")
+for varIdx in range(varLenStr - 1, -1, -1):
+    print(varString[varIdx])
+
 
 
 
