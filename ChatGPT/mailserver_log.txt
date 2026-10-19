@@ -1,0 +1,155 @@
+2026-10-19 08:12:03 INFO  MailScanner started
+2026-10-19 08:12:05 INFO  Connecting to mail gateway mx01.example.net
+2026-10-19 08:12:07 INFO  Connection established
+From: marco.rossi@example.com
+To: helpdesk@example.net
+Subject: Richiesta assistenza
+X-DSPAM-Confidence: 0.8475
+X-DSPAM-Probability: 0.0210
+Status: delivered
+
+2026-10-19 08:15:42 INFO  Processing message ID 8FA2C1
+From: newsletter@shop.example
+To: user@example.net
+Subject: Offerta del giorno
+X-DSPAM-Confidence: 0.6132
+X-DSPAM-Probability: 0.1840
+Status: delivered
+
+2026-10-19 08:19:11 WARN  Temporary delay from remote server
+2026-10-19 08:20:03 INFO  Retry successful
+From: alerts@bank.example
+To: user@example.net
+Subject: Accesso al conto
+X-DSPAM-Confidence: 0.9724
+X-DSPAM-Probability: 0.0040
+Status: delivered
+
+2026-10-19 08:23:28 INFO  Processing message ID 92BC44
+From: promo@unknown-mail.example
+To: user@example.net
+Subject: YOU WON!!!
+X-DSPAM-Confidence: 0.1186
+X-DSPAM-Probability: 0.9230
+Status: quarantined
+
+2026-10-19 08:27:56 INFO  Processing message ID A773D0
+From: colleague@example.org
+To: user@example.net
+Subject: Riunione di domani
+X-DSPAM-Confidence: 0.9017
+X-DSPAM-Probability: 0.0120
+Status: delivered
+
+2026-10-19 08:32:14 ERROR Attachment scanner timeout
+2026-10-19 08:32:16 INFO  Scanner restarted
+
+From: invoice@vendor.example
+To: accounts@example.net
+Subject: Invoice 2026-1044
+X-DSPAM-Confidence: 0.7541
+X-DSPAM-Probability: 0.0610
+Status: delivered
+
+2026-10-19 08:38:09 INFO  Processing message ID C14DD8
+From: security@service.example
+To: user@example.net
+Subject: Password reset request
+X-DSPAM-Confidence: 0.9881
+X-DSPAM-Probability: 0.0020
+Status: delivered
+
+2026-10-19 08:42:33 INFO  Processing message ID D0A221
+From: cheap-loans@spam.example
+To: user@example.net
+Subject: Instant cash now
+X-DSPAM-Confidence: 0.2034
+X-DSPAM-Probability: 0.8790
+Status: quarantined
+
+2026-10-19 08:47:10 INFO  Processing message ID D91A07
+From: anna.bianchi@example.com
+To: user@example.net
+Subject: Foto del viaggio
+X-DSPAM-Confidence: 0.8293
+X-DSPAM-Probability: 0.0350
+Status: delivered
+
+2026-10-19 08:51:54 INFO  Processing message ID E1709A
+From: noreply@forum.example
+To: user@example.net
+Subject: Nuova risposta alla discussione
+X-DSPAM-Confidence: 0.6819
+X-DSPAM-Probability: 0.1020
+Status: delivered
+
+2026-10-19 08:56:21 WARN  Queue size above threshold: 114
+2026-10-19 08:57:08 INFO  Queue size normalized
+
+From: fake-prize@random.example
+To: user@example.net
+Subject: Claim your reward
+X-DSPAM-Confidence: 0.0675
+X-DSPAM-Probability: 0.9760
+Status: quarantined
+
+2026-10-19 09:01:46 INFO  Processing message ID F207CC
+From: hr@example.net
+To: user@example.net
+Subject: Aggiornamento documentazione
+X-DSPAM-Confidence: 0.9348
+X-DSPAM-Probability: 0.0080
+Status: delivered
+
+2026-10-19 09:05:29 INFO  Processing message ID F88210
+From: github@example.dev
+To: user@example.net
+Subject: Build completed successfully
+X-DSPAM-Confidence: 0.7936
+X-DSPAM-Probability: 0.0440
+Status: delivered
+
+2026-10-19 09:11:03 INFO  Processing message ID 102AC7
+From: mysterious-offer@spam.example
+To: user@example.net
+Subject: Limited time opportunity
+X-DSPAM-Confidence: 0.1549
+X-DSPAM-Probability: 0.9110
+Status: quarantined
+
+2026-10-19 09:16:48 INFO  Processing message ID 119BDF
+From: family@example.com
+To: user@example.net
+Subject: Cena di sabato
+X-DSPAM-Confidence: 0.9562
+X-DSPAM-Probability: 0.0060
+Status: delivered
+
+2026-10-19 09:22:17 INFO  Processing message ID 12CC81
+From: updates@software.example
+To: user@example.net
+Subject: Version 4.2 released
+X-DSPAM-Confidence: 0.7227
+X-DSPAM-Probability: 0.0730
+Status: delivered
+
+2026-10-19 09:27:43 WARN  DNS lookup took 1420 ms
+2026-10-19 09:28:01 INFO  DNS latency back to normal
+
+From: scam@totally-legit.example
+To: user@example.net
+Subject: Urgent payment required
+X-DSPAM-Confidence: 0.0892
+X-DSPAM-Probability: 0.9620
+Status: quarantined
+
+2026-10-19 09:34:12 INFO  Processing message ID 143DA9
+From: booking@hotel.example
+To: user@example.net
+Subject: Conferma prenotazione
+X-DSPAM-Confidence: 0.8754
+X-DSPAM-Probability: 0.0190
+Status: delivered
+
+2026-10-19 09:39:50 INFO  MailScanner heartbeat OK
+2026-10-19 09:45:00 INFO  End of sample log
