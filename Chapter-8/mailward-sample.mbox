@@ -1,0 +1,269 @@
+From 1000@xxx Tue Sep 01 08:05:00 +0000 2026
+X-Gmail-Labels: Inbox
+From: Robin Example <secretary@example.org>
+To: Casey Sample <casey@example.com>
+Subject: Welcome to the members list
+Date: Tue, 01 Sep 2026 08:05:00 +0000
+Message-ID: <0001.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+Hi Casey,
+
+You are now on the members list. Announcements arrive from this address; replies go to the secretary.
+
+Robin
+
+From 1001@xxx Wed Sep 02 06:30:00 +0000 2026
+X-Gmail-Labels: Inbox,Newsletter
+From: Example Rowing Club News <news@example.net>
+To: Casey Sample <casey@example.com>
+Subject: =?UTF-8?B?Q2x1YiBuZXdzbGV0dGVyIOKAlCBTZXB0ZW1iZXI=?=
+Date: Wed, 02 Sep 2026 06:30:00 +0000
+Message-ID: <0002.sample@example.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="alt-0002"
+
+--alt-0002
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Example Rowing Club =E2=80=94 September
+
+The autumn head race is on 26 September. Entries close on the 18th =E2=80=
+=94 the form went out to crew captains this week.
+
+Boathouse hours change on 1 October: weekdays 06:00=E2=80=9320:00, weekends=
+ 07:00=E2=80=9318:00.
+--alt-0002
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body style=3D"font-family: Georgia, serif">
+<h1>Example Rowing Club =E2=80=94 September</h1>
+<p>The autumn head race is on <b>26 September</b>. Entries close on the 18t=
+h =E2=80=94 the form went out to crew captains this week.</p>
+<p>Boathouse hours change on 1 October: weekdays 06:00=E2=80=9320:00, weeke=
+nds 07:00=E2=80=9318:00.</p>
+</body></html>
+--alt-0002--
+
+From 1002@xxx Thu Sep 03 09:15:00 +0000 2026
+X-Gmail-Labels: Inbox,Receipts
+From: Club Treasurer <treasurer@example.org>
+To: Casey Sample <casey@example.com>
+Subject: Receipt: boat storage fee
+Date: Thu, 03 Sep 2026 09:15:00 +0000
+Message-ID: <0003.sample@example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="mix-0003"
+
+--mix-0003
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Thank you =E2=80=94 the storage fee for rack 14 is paid through August 2027=
+. The stamped receipt is attached.
+--mix-0003
+Content-Type: image/png; name="receipt-stamp.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="receipt-stamp.png"
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAsUlEQVR42u3YsRGAMAwDQE3CALQ0
+LMdOrEfBQc8lYCexUcB3GuCrRBaGcaYKAvQr0LpMybiCcohWONhRylhw0KhMcKCoWPDUSEyo0Rz7
+lkyNCWWaHEXOagaSUCQsHaiVpsAEa43WJAXVaG5MzyAjjdzUIaiVJmfqCmStkZgCFKAA/RsUL/U3
+PteXQXQFjbHC0pV8xjOI8VCkO6UZxwbGOYZxsCKd9BhHT9JZOJb8AF1yAkSHoT1uzZ2RAAAAAElF
+TkSuQmCC
+--mix-0003--
+
+From 1003@xxx Fri Sep 04 14:40:00 +0000 2026
+X-Gmail-Labels: Inbox,Receipts
+From: Regatta Office <entries@example.org>
+To: Casey Sample <casey@example.com>
+Cc: Club Treasurer <treasurer@example.org>
+Date: Fri, 04 Sep 2026 14:40:00 +0000
+Subject: Regatta entry: form and fee table
+Message-ID: <0004.sample@example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="mix-0004"
+
+--mix-0004
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Crew captains,
+
+Please return the form by 18 September. Fees per boat class are in the CSV.
+
+Regatta Office
+--mix-0004
+Content-Type: application/pdf; name="entry-form.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="entry-form.pdf"
+
+JVBERi0xLjQKMSAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZyAvUGFnZXMgMiAwIFIgPj4KZW5kb2Jq
+CjIgMCBvYmoKPDwgL1R5cGUgL1BhZ2VzIC9LaWRzIFszIDAgUl0gL0NvdW50IDEgPj4KZW5kb2Jq
+CjMgMCBvYmoKPDwgL1R5cGUgL1BhZ2UgL1BhcmVudCAyIDAgUiAvTWVkaWFCb3ggWzAgMCA2MTIg
+NzkyXSAvQ29udGVudHMgNCAwIFIgL1Jlc291cmNlcyA8PCAvRm9udCA8PCAvRjEgNSAwIFIgPj4g
+Pj4gPj4KZW5kb2JqCjQgMCBvYmoKPDwgL0xlbmd0aCAxNDcgPj4Kc3RyZWFtCkJUIC9GMSAxNiBU
+ZiA3MiA3MjAgVGQgKFJlZ2F0dGEgZW50cnkgZm9ybSAtIHNhbXBsZSBmaWxlKSBUaiAwIC0yOCBU
+ZCAvRjEgMTEgVGYgKEdlbmVyYXRlZCBmb3IgTWFpbHdhcmQncyBwdWJsaWMgdGVzdCBtYWlsYm94
+LiBObyByZWFsIGRhdGEuKSBUaiBFVAplbmRzdHJlYW0KZW5kb2JqCjUgMCBvYmoKPDwgL1R5cGUg
+L0ZvbnQgL1N1YnR5cGUgL1R5cGUxIC9CYXNlRm9udCAvSGVsdmV0aWNhID4+CmVuZG9iagp4cmVm
+CjAgNgowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMDkgMDAwMDAgbiAKMDAwMDAwMDA1OCAw
+MDAwMCBuIAowMDAwMDAwMTE1IDAwMDAwIG4gCjAwMDAwMDAyNDEgMDAwMDAgbiAKMDAwMDAwMDQz
+OSAwMDAwMCBuIAp0cmFpbGVyCjw8IC9TaXplIDYgL1Jvb3QgMSAwIFIgPj4Kc3RhcnR4cmVmCjUw
+OQolJUVPRgo=
+--mix-0004
+Content-Type: text/csv; name="fees-2026.csv"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="fees-2026.csv"
+
+Y2F0ZWdvcnksYm9hdCxmZWVfZXVyDQpqdW5pb3Isc2luZ2xlIHNjdWxsLDEyLjAwDQpqdW5pb3Is
+ZG91YmxlIHNjdWxsLDE4LjAwDQpzZW5pb3Isc2luZ2xlIHNjdWxsLDIwLjAwDQpzZW5pb3IsY294
+ZWQgZm91ciw0OC4wMA0KbWFzdGVycyxlaWdodCw4MC4wMA0K
+--mix-0004--
+
+From 1004@xxx Sat Sep 05 01:00:00 +0000 2026
+X-Gmail-Labels: Inbox,=?UTF-8?B?57e057+S?=
+From: =?UTF-8?B?57e057+S5L+CKOOCteODs+ODl+ODqyk=?= <practice@example.org>
+To: Casey Sample <casey@example.com>
+Subject: =?UTF-8?B?57e057+S44K544Kx44K444Ol44O844Or44Gu44GK55+l44KJ44Gb?=
+Date: Sat, 05 Sep 2026 01:00:00 +0000
+Message-ID: <0005.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+57e057+S44K544Kx44K444Ol44O844Or44Gu44GK55+l44KJ44Gb44Gn44GZ44CCCuWcn+abnOaX
+peOBr+WNiOWJjeWFreaZguWNiuOBq+iJh+W6q+OBq+mbhuWQiOOBl+OBpuOBj+OBoOOBleOBhOOA
+ggrpm6jlpKnjga7loLTlkIjjga/jgqjjg6vjgrTjg6Hjg7zjgr/jg7zjgafooYzjgYTjgb7jgZnj
+gIIK
+
+From 1005@xxx Sun Sep 06 10:20:00 +0000 2026
+X-Gmail-Labels: Inbox
+From: Robin Example <secretary@example.org>
+To: Casey Sample <casey@example.com>
+Subject: Directions for Saturday
+Date: Sun, 06 Sep 2026 10:20:00 +0000
+Message-ID: <0006.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+Parking is behind the clubhouse.
+>From the boathouse, turn left at the slipway and follow the towpath.
+
+Robin
+
+From 1006@xxx Mon Sep 07 16:45:00 +0000 2026
+X-Gmail-Labels: Inbox
+From: Boathouse Manager <boathouse@example.org>
+To: Casey Sample <casey@example.com>
+Subject: Gate code
+Date: Mon, 07 Sep 2026 16:45:00 +0000
+Message-ID: <0007.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+A reminder for all key holders.
+From Monday the gate code changes; the new one is on the noticeboard.
+Please do not share it outside the club.
+
+From 1007@xxx Tue Sep 08 07:10:00 +0000 2026
+X-Gmail-Labels: Sent
+From: Casey Sample <casey@example.com>
+To: Coach Example <coach@example.org>
+Subject: Re: Saturday practice
+Date: Tue, 08 Sep 2026 07:10:00 +0000
+Message-ID: <0008.sample@example.com>
+In-Reply-To: <0012.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+Coach,
+
+I can cox the second outing if nobody else has signed up.
+
+Casey
+
+From 1008@xxx Thu Sep 10 08:00:00 +0000 2026
+X-Gmail-Labels: Inbox
+From: Boathouse Manager <boathouse@example.org>
+To: members@example.org
+Subject: Lost property: blue water bottle
+Date: Thursday morning
+Message-ID: <0009.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+A blue water bottle was left on the ergometer by the window. It is in the office.
+
+From 1009@xxx Fri Sep 11 18:30:00 +0000 2026
+X-Gmail-Labels: Sent
+From: Casey Sample <casey@example.com>
+To: Regatta Office <entries@example.org>
+Cc: Club Treasurer <treasurer@example.org>
+Date: Fri, 11 Sep 2026 18:30:00 +0000
+Subject: Re: Regatta entry: form and fee table
+Message-ID: <0010.sample@example.com>
+In-Reply-To: <0004.sample@example.org>
+References: <0004.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+Entering one coxed four and two singles. Form to follow by post.
+
+> Please return the form by 18 September.
+
+Casey
+
+From 1010@xxx Sat Sep 12 12:00:00 +0000 2026
+X-Gmail-Labels: Inbox
+From: =?ISO-8859-1?Q?Zo=EB_Sample?= <cafe@example.org>
+To: Casey Sample <casey@example.com>
+Subject: =?ISO-8859-1?Q?Caf=E9_rota?=
+Date: Sat, 12 Sep 2026 12:00:00 +0000
+Message-ID: <0011.sample@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Zo=EB covers the caf=E9 on Sunday; Robin has Saturday.
+Float is 12 EUR, in the tin under the counter.
+
+From 1011@xxx Tue Sep 08 07:00:00 +0000 2026
+X-Gmail-Labels: Inbox,=?UTF-8?B?57e057+S?=
+From: Coach Example <coach@example.org>
+To: Casey Sample <casey@example.com>
+Subject: Saturday practice
+Date: Tue, 08 Sep 2026 07:00:00 +0000
+Message-ID: <0012.sample@example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="mix-0012"
+
+--mix-0012
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Saturday 07:30 at the boathouse, bay 2. Invite attached, with the notes fro=
+m last session.
+--mix-0012
+Content-Type: text/calendar; method=PUBLISH; name="practice.ics"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="practice.ics"
+
+QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01haWx3YXJkLy9TYW1wbGUg
+bWFpbGJveC8vRU4NCkJFR0lOOlZFVkVOVA0KVUlEOnByYWN0aWNlLTIwMjYwOTEyQGV4YW1wbGUu
+b3JnDQpEVFNUQU1QOjIwMjYwOTA4VDA3MDAwMFoNCkRUU1RBUlQ6MjAyNjA5MTJUMDUzMDAwWg0K
+RFRFTkQ6MjAyNjA5MTJUMDcwMDAwWg0KU1VNTUFSWTpTYXR1cmRheSBwcmFjdGljZQ0KTE9DQVRJ
+T046Qm9hdGhvdXNlLCBiYXkgMg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K
+--mix-0012
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=UTF-8''r%C3%A9capitulatif.txt
+
+UsOpY2FwaXR1bGF0aWYgZGUgbGEgc8OpYW5jZQotIDMgeCAxNTAwIG0sIGNhZGVuY2UgMjQKLSBy
+ZXRvdXIgYXUgY2FsbWUgMTAgbWluCg==
+--mix-0012--
+
