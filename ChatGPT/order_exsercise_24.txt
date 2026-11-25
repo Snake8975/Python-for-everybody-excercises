@@ -1,0 +1,8 @@
+ORD001;Rossi;Monitor;2;189.90
+ORD002;Bianchi;Tastiera;5;45.50
+ORD003;Verdi;Mouse;10;19.90
+ORD004;Rossi;Notebook;1;899.00
+ORD005;Neri;Monitor;3;189.90
+ORD006;Bianchi;Mouse;4;19.90
+ORD007;Verdi;Notebook;2;899.00
+ORD008;Rossi;Tastiera;6;45.50
